@@ -1,0 +1,1139 @@
+{
+    "manifest_version": "1.0.20",
+    "title": "Qudrat \u2013 Islamic Center & Mosque Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/qudrat\/template-kit\/home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About",
+            "screenshot": "screenshots\/about.jpg",
+            "source": "templates\/about.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/qudrat\/template-kit\/about\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/qudrat\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Events",
+            "screenshot": "screenshots\/events.jpg",
+            "source": "templates\/events.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/qudrat\/template-kit\/events\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Charity",
+            "screenshot": "screenshots\/charity.jpg",
+            "source": "templates\/charity.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/qudrat\/template-kit\/charity\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Staff",
+            "screenshot": "screenshots\/staff.jpg",
+            "source": "templates\/staff.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/qudrat\/template-kit\/staff\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.jpg",
+            "source": "templates\/blog.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/qudrat\/template-kit\/blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Post",
+            "screenshot": "screenshots\/single-post.jpg",
+            "source": "templates\/single-post.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/qudrat\/template-kit\/single-post\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Metform Contact",
+            "screenshot": "screenshots\/metform-contact.jpg",
+            "source": "templates\/metform-contact.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/qudrat\/template-kit\/metform-contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/qudrat\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/qudrat\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/qudrat\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Jeg Elementor Kit",
+            "version": "2.0.1",
+            "file": "jeg-elementor-kit\/jeg-elementor-kit.php",
+            "author": "Jegstudio"
+        },
+        {
+            "name": "MetForm",
+            "version": "1.5.4",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.4.4",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "5540930-e1634176965675.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/qudrat\/wp-content\/uploads\/sites\/178\/2021\/10\/5540930-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/events.json",
+                    "name": "Events"
+                },
+                {
+                    "source": "templates\/charity.json",
+                    "name": "Charity"
+                },
+                {
+                    "source": "templates\/staff.json",
+                    "name": "Staff"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 230149,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/flat-arabic-pattern-background_15365515.htm"
+        },
+        {
+            "filename": "asset-hero-e1634353599298.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/qudrat\/wp-content\/uploads\/sites\/178\/2021\/10\/asset-hero-800x889.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 60973,
+            "dimensions": [
+                1000,
+                1112
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/ramadan-landing-page_12557259.htm"
+        },
+        {
+            "filename": "asset-ornamen2.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/qudrat\/wp-content\/uploads\/sites\/178\/2021\/10\/asset-ornamen2.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/events.json",
+                    "name": "Events"
+                },
+                {
+                    "source": "templates\/staff.json",
+                    "name": "Staff"
+                }
+            ],
+            "filesize": 159521,
+            "dimensions": [
+                718,
+                721
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/ramadan-landing-page_12557259.htm"
+        },
+        {
+            "filename": "asset-ornamen1.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/qudrat\/wp-content\/uploads\/sites\/178\/2021\/10\/asset-ornamen1-800x646.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/events.json",
+                    "name": "Events"
+                },
+                {
+                    "source": "templates\/staff.json",
+                    "name": "Staff"
+                }
+            ],
+            "filesize": 306429,
+            "dimensions": [
+                1201,
+                970
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/ramadan-landing-page_12557259.htm"
+        },
+        {
+            "filename": "arabic-men3-in-desert-5BHEW8E.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/qudrat\/wp-content\/uploads\/sites\/178\/2021\/10\/arabic-men3-in-desert-5BHEW8E-800x880.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 92588,
+            "dimensions": [
+                1000,
+                1100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-5BHEW8E"
+        },
+        {
+            "filename": "Asset-10@4x.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/qudrat\/wp-content\/uploads\/sites\/178\/2021\/10\/Asset-10@4x.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/events.json",
+                    "name": "Events"
+                }
+            ],
+            "filesize": 4690,
+            "dimensions": [
+                212,
+                212
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-KVXVRLR"
+        },
+        {
+            "filename": "Asset-17@4x.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/qudrat\/wp-content\/uploads\/sites\/178\/2021\/10\/Asset-17@4x.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/events.json",
+                    "name": "Events"
+                }
+            ],
+            "filesize": 4871,
+            "dimensions": [
+                188,
+                200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-KVXVRLR"
+        },
+        {
+            "filename": "Asset-19@4x.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/qudrat\/wp-content\/uploads\/sites\/178\/2021\/10\/Asset-19@4x.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/events.json",
+                    "name": "Events"
+                }
+            ],
+            "filesize": 4436,
+            "dimensions": [
+                201,
+                213
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-KVXVRLR"
+        },
+        {
+            "filename": "Asset-16@4x.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/qudrat\/wp-content\/uploads\/sites\/178\/2021\/10\/Asset-16@4x.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/events.json",
+                    "name": "Events"
+                }
+            ],
+            "filesize": 13230,
+            "dimensions": [
+                226,
+                224
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-KVXVRLR"
+        },
+        {
+            "filename": "Asset-6@4x.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/qudrat\/wp-content\/uploads\/sites\/178\/2021\/10\/Asset-6@4x.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/events.json",
+                    "name": "Events"
+                }
+            ],
+            "filesize": 4177,
+            "dimensions": [
+                202,
+                201
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-KVXVRLR"
+        },
+        {
+            "filename": "sheikh-zayed-grand-mosque-treasure-of-abu-dhabi-e1634177163991.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/qudrat\/wp-content\/uploads\/sites\/178\/2021\/10\/sheikh-zayed-grand-mosque-treasure-of-abu-dhabi-800x1078.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 290180,
+            "dimensions": [
+                1000,
+                1348
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-VEXD8FM"
+        },
+        {
+            "filename": "P58MYJ4-1-e1634353571465.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/qudrat\/wp-content\/uploads\/sites\/178\/2021\/10\/P58MYJ4-1-800x410.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/events.json",
+                    "name": "Events"
+                }
+            ],
+            "filesize": 16673,
+            "dimensions": [
+                1000,
+                513
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-P58MYJ4"
+        },
+        {
+            "filename": "arabic-men3-in-the-desert-PPCPMWY.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/qudrat\/wp-content\/uploads\/sites\/178\/2021\/10\/arabic-men3-in-the-desert-PPCPMWY-800x435.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/events.json",
+                    "name": "Events"
+                }
+            ],
+            "filesize": 133210,
+            "dimensions": [
+                1250,
+                680
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PPCPMWY"
+        },
+        {
+            "filename": "abandoned-room-under-demolition-e1634177172740.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/qudrat\/wp-content\/uploads\/sites\/178\/2021\/10\/abandoned-room-under-demolition-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/charity.json",
+                    "name": "Charity"
+                }
+            ],
+            "filesize": 291786,
+            "dimensions": [
+                1440,
+                961
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-P7HKEDR"
+        },
+        {
+            "filename": "muslim-doctor-woman-e1634177212266.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/qudrat\/wp-content\/uploads\/sites\/178\/2021\/10\/muslim-doctor-woman-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/charity.json",
+                    "name": "Charity"
+                }
+            ],
+            "filesize": 105139,
+            "dimensions": [
+                1440,
+                960
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-AHXGZ97"
+        },
+        {
+            "filename": "homeless-beggar-man-lying-on-the-ground-outdoors-in-city-sleeping--e1634177222145.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/qudrat\/wp-content\/uploads\/sites\/178\/2021\/10\/homeless-beggar-man-lying-on-the-ground-outdoors-in-city-sleeping--800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/charity.json",
+                    "name": "Charity"
+                }
+            ],
+            "filesize": 182587,
+            "dimensions": [
+                1440,
+                960
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PZVS7HG"
+        },
+        {
+            "filename": "Asset-14@4x.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/qudrat\/wp-content\/uploads\/sites\/178\/2021\/10\/Asset-14@4x.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 5855,
+            "dimensions": [
+                200,
+                197
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-KVXVRLR"
+        },
+        {
+            "filename": "Asset-12@4x.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/qudrat\/wp-content\/uploads\/sites\/178\/2021\/10\/Asset-12@4x.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 3602,
+            "dimensions": [
+                201,
+                200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-KVXVRLR"
+        },
+        {
+            "filename": "Asset-KVXVRLR.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/qudrat\/wp-content\/uploads\/sites\/178\/2021\/10\/Asset-KVXVRLR.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 3413,
+            "dimensions": [
+                200,
+                200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-KVXVRLR"
+        },
+        {
+            "filename": "Asset-9@4x.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/qudrat\/wp-content\/uploads\/sites\/178\/2021\/10\/Asset-9@4x.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 3354,
+            "dimensions": [
+                200,
+                200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-KVXVRLR"
+        },
+        {
+            "filename": "Asset-3@4x.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/qudrat\/wp-content\/uploads\/sites\/178\/2021\/10\/Asset-3@4x.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 3961,
+            "dimensions": [
+                178,
+                224
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-KVXVRLR"
+        },
+        {
+            "filename": "arabic-man-in-the-desert-e1634010183603.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/qudrat\/wp-content\/uploads\/sites\/178\/2021\/10\/arabic-man-in-the-desert-e1634010183603-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 61676,
+            "dimensions": [
+                850,
+                850
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-MRANRFT"
+        },
+        {
+            "filename": "sunset-view-at-mosque-e1634177303562.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/qudrat\/wp-content\/uploads\/sites\/178\/2021\/10\/sunset-view-at-mosque-800x1065.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 179046,
+            "dimensions": [
+                1000,
+                1331
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-4K8ATZX"
+        },
+        {
+            "filename": "prayer-hands-of-a-woman-holding-a-rosary-e1634177310319.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/qudrat\/wp-content\/uploads\/sites\/178\/2021\/10\/prayer-hands-of-a-woman-holding-a-rosary-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/events.json",
+                    "name": "Events"
+                }
+            ],
+            "filesize": 58843,
+            "dimensions": [
+                1000,
+                1500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-RM8THXK"
+        },
+        {
+            "filename": "asset3-N2LNLGE-e1634353581978.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/qudrat\/wp-content\/uploads\/sites\/178\/2021\/10\/asset3-N2LNLGE-800x1166.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/staff.json",
+                    "name": "Staff"
+                }
+            ],
+            "filesize": 27494,
+            "dimensions": [
+                1000,
+                1458
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-N2LNLGE"
+        },
+        {
+            "filename": "arabian-man-with-horse-in-the-desert-79P3F27.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/qudrat\/wp-content\/uploads\/sites\/178\/2021\/10\/arabian-man-with-horse-in-the-desert-79P3F27-800x1136.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/staff.json",
+                    "name": "Staff"
+                }
+            ],
+            "filesize": 288491,
+            "dimensions": [
+                880,
+                1250
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-79P3F27"
+        },
+        {
+            "filename": "muslim-man-studying-the-quran-e1634177317816.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/qudrat\/wp-content\/uploads\/sites\/178\/2021\/10\/muslim-man-studying-the-quran-800x553.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/events.json",
+                    "name": "Events"
+                }
+            ],
+            "filesize": 191998,
+            "dimensions": [
+                1440,
+                995
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-6GS4AXR"
+        },
+        {
+            "filename": "arabian-man-in-the-emirates-X8ZAR6M.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/qudrat\/wp-content\/uploads\/sites\/178\/2021\/10\/arabian-man-in-the-emirates-X8ZAR6M-800x1000.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/staff.json",
+                    "name": "Staff"
+                }
+            ],
+            "filesize": 219578,
+            "dimensions": [
+                1000,
+                1250
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-X8ZAR6M"
+        },
+        {
+            "filename": "muslim-man-with-prayer-beads-in-modern-cafe-FGJBWUD.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/qudrat\/wp-content\/uploads\/sites\/178\/2021\/10\/muslim-man-with-prayer-beads-in-modern-cafe-FGJBWUD-800x1000.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/staff.json",
+                    "name": "Staff"
+                }
+            ],
+            "filesize": 127525,
+            "dimensions": [
+                1000,
+                1250
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-FGJBWUD"
+        },
+        {
+            "filename": "multiethnic-business-team-meeting-in-the-office-2021-09-04-15-45-46-utc.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/qudrat\/wp-content\/uploads\/sites\/178\/2021\/10\/multiethnic-business-team-meeting-in-the-office-2021-09-04-15-45-46-utc-800x1000.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/staff.json",
+                    "name": "Staff"
+                }
+            ],
+            "filesize": 313419,
+            "dimensions": [
+                1000,
+                1250
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-NFTZNZY"
+        },
+        {
+            "filename": "muslim-speaker-in-a-workshop-e1634177412586.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/qudrat\/wp-content\/uploads\/sites\/178\/2021\/10\/muslim-speaker-in-a-workshop-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/events.json",
+                    "name": "Events"
+                }
+            ],
+            "filesize": 167719,
+            "dimensions": [
+                1440,
+                960
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-6YFCFWE"
+        },
+        {
+            "filename": "muslim-woman-watching-video-on-computer-drinking-hot-coffee-e1634177396969.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/qudrat\/wp-content\/uploads\/sites\/178\/2021\/10\/muslim-woman-watching-video-on-computer-drinking-hot-coffee-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/events.json",
+                    "name": "Events"
+                }
+            ],
+            "filesize": 121618,
+            "dimensions": [
+                1440,
+                960
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-UY4RWQ3"
+        },
+        {
+            "filename": "muslim-boy-praying-on-the-prayer-mat-e1634177388930.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/qudrat\/wp-content\/uploads\/sites\/178\/2021\/10\/muslim-boy-praying-on-the-prayer-mat-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/events.json",
+                    "name": "Events"
+                }
+            ],
+            "filesize": 132827,
+            "dimensions": [
+                1440,
+                960
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-3QUKSK4"
+        },
+        {
+            "filename": "dome-of-the-rock-mosque-e1634183863338.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/qudrat\/wp-content\/uploads\/sites\/178\/2021\/10\/dome-of-the-rock-mosque-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/charity.json",
+                    "name": "Charity"
+                }
+            ],
+            "filesize": 222994,
+            "dimensions": [
+                1440,
+                961
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-ZEE3RYZ"
+        },
+        {
+            "filename": "young-muslim-student-in-hijab-making-working-notes-by-table-e1634184145270.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/qudrat\/wp-content\/uploads\/sites\/178\/2021\/10\/young-muslim-student-in-hijab-making-working-notes-by-table-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/charity.json",
+                    "name": "Charity"
+                }
+            ],
+            "filesize": 138802,
+            "dimensions": [
+                1440,
+                960
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-ZVG7NFJ"
+        },
+        {
+            "filename": "muslim-family-reading-the-news-e1634184000703.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/qudrat\/wp-content\/uploads\/sites\/178\/2021\/10\/muslim-family-reading-the-news-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/charity.json",
+                    "name": "Charity"
+                }
+            ],
+            "filesize": 185230,
+            "dimensions": [
+                1440,
+                960
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-S425AR3"
+        },
+        {
+            "filename": "portrait-muslim-woman-93X8AWX.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/qudrat\/wp-content\/uploads\/sites\/178\/2021\/10\/portrait-muslim-woman-93X8AWX-800x1000.jpg",
+            "templates": [
+                {
+                    "source": "templates\/staff.json",
+                    "name": "Staff"
+                }
+            ],
+            "filesize": 132609,
+            "dimensions": [
+                1000,
+                1250
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-93X8AWX"
+        },
+        {
+            "filename": "asian-muslim-woman-after-worship-at-the-mosque-7HAUUCT-e1634177541508.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/qudrat\/wp-content\/uploads\/sites\/178\/2021\/10\/asian-muslim-woman-after-worship-at-the-mosque-7HAUUCT-800x1000.jpg",
+            "templates": [
+                {
+                    "source": "templates\/staff.json",
+                    "name": "Staff"
+                }
+            ],
+            "filesize": 129432,
+            "dimensions": [
+                900,
+                1125
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-7HAUUCT"
+        },
+        {
+            "filename": "modern-muslim-woman-in-hijab-in-office-room-3Q5PKMS-e1634177553380.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/qudrat\/wp-content\/uploads\/sites\/178\/2021\/10\/modern-muslim-woman-in-hijab-in-office-room-3Q5PKMS-800x1000.jpg",
+            "templates": [
+                {
+                    "source": "templates\/staff.json",
+                    "name": "Staff"
+                }
+            ],
+            "filesize": 116361,
+            "dimensions": [
+                900,
+                1125
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-3Q5PKMS"
+        },
+        {
+            "filename": "muslims-reading-from-the-quran-1-e1634177356347.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/qudrat\/wp-content\/uploads\/sites\/178\/2021\/10\/muslims-reading-from-the-quran-1-800x541.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 179086,
+            "dimensions": [
+                1440,
+                974
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-9FC6BRE"
+        },
+        {
+            "filename": "logo-CSP2ZX6-e1634177262208.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/qudrat\/wp-content\/uploads\/sites\/178\/2021\/10\/logo-CSP2ZX6-800x229.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 41950,
+            "dimensions": [
+                1000,
+                286
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-CSP2ZX6"
+        },
+        {
+            "filename": "logo3-CSP2ZX6-e1634177284281.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/qudrat\/wp-content\/uploads\/sites\/178\/2021\/10\/logo3-CSP2ZX6-800x231.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 62973,
+            "dimensions": [
+                1000,
+                289
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-CSP2ZX6"
+        }
+    ]
+}
